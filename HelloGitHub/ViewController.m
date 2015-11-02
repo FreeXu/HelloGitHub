@@ -26,6 +26,7 @@
     label.text = @"Hello GitHub!";
     
     NSLog(@"Branch test");
+    NSLog(@"Test");
 }
 
 - (void)didReceiveMemoryWarning {
