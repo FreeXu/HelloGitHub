@@ -24,6 +24,8 @@
     label.textColor = [UIColor darkGrayColor];
     [self.view addSubview:label];
     label.text = @"Hello GitHub!";
+    
+    NSLog(@"Branch test");
 }
 
 - (void)didReceiveMemoryWarning {
