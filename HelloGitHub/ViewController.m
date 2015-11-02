@@ -27,6 +27,7 @@
     
     NSLog(@"Branch test");
     NSLog(@"Test");
+    NSLog(@"Branch Two");
 }
 
 - (void)didReceiveMemoryWarning {
